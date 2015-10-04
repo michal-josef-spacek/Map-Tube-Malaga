@@ -135,6 +135,28 @@ EXAMPLE3
      # Output like:
      # -rw-r--r-- 1 skim skim 51733 Sep  1 14:00 Malaga.png
 
+EXAMPLE4
+     # Pragmas.
+     use strict;
+     use warnings;
+
+     # Modules.
+     use Encode qw(encode_utf8);
+     use Map::Tube::Malaga;
+
+     # Object.
+     my $obj = Map::Tube::Malaga->new;
+
+     # Get lines.
+     my $lines_ar = $obj->get_lines;
+
+     # Print out.
+     map { print encode_utf8($_->name)."\n"; } sort @{$lines_ar};
+
+     # Output:
+     # Línea 1
+     # Línea 2
+
 DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
