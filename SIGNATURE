@@ -14,17 +14,18 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 79098500a3fc7ed60907c261b91aa60f72c4f1e0 Changes
+SHA1 9791803dfb1f6b233f4615ace5e45e419501dbb1 Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
-SHA1 0d26cd86bc1504564823bf4d8ad5fe9d9bf5dbcc MANIFEST
-SHA1 4fb5c4fb27edcf3a8e07530c486872146a4f46f7 META.yml
-SHA1 7dc40d61d4ed4d07f396d6f8f8d00e875866d47f Makefile.PL
-SHA1 30d250ab8444b8335d618aca79313ef25eff23df Malaga.pm
-SHA1 871246bd287fee34d04ecbb8c4b3bd5e308f3707 README
+SHA1 98af5862049cfc519b5d20b94f728bf22fc09fc7 MANIFEST
+SHA1 05129090fb8acda306333656f6114ffb83f45ba6 META.yml
+SHA1 bf0bb07e95db6aa635651f8d14e0ffa3ee3d8019 Makefile.PL
+SHA1 a567e0dc58c7334a94cb2084e9c92b724971bd00 Malaga.pm
+SHA1 1fa88a3667348295afbcae34f947826e193b9e2e README
 SHA1 9cbfdeadf23ed8655ab1c133fec5d8cb7901ca66 examples/ex1.pl
 SHA1 6d4e8be741a482b58533ebb4fdb375252cda8433 examples/ex2.pl
 SHA1 9310950457e31fca5c4ecf9644f6b978a87c9122 examples/ex3.pl
+SHA1 f47ead84d9505469b1a4ff99f5292e5e19d41938 examples/ex4.pl
 SHA1 810566049452a133eedc3a57b10f64d64345ccd6 images/ex3.png
 SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
 SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
@@ -40,21 +41,23 @@ SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
 SHA1 7a82ae90b66d00d929a4c60c8e7a505a7549125d share/malaga-map.xml
 SHA1 61e8d07c2c981dc95839724a9940c5cfa9d09230 t/Map-Tube-Malaga/01-use.t
-SHA1 2f3292a4c38f4af21a4798af8b58e98a54aa9893 t/Map-Tube-Malaga/02-version.t
+SHA1 4ff2a73eca9e636481df3057fb1edaccd8cc27de t/Map-Tube-Malaga/02-version.t
 SHA1 90e99167f750dea112833b422315bf01ce017b38 t/Map-Tube-Malaga/03-map.t
-SHA1 35337d00b6d09ad2abf905c1c83d2ab495e5cad5 t/Map-Tube-Malaga/04-get_shortest_route.t
-SHA1 59adb3d3416e02f08273c15494c76122d3372e6e t/Map-Tube-Malaga/05-name.t
-SHA1 b23b73125fea7739220b77f8d46708baca24b177 t/Map-Tube-Malaga/06-xml.t
+SHA1 f8f797b5a08ff2dd08b9dea9b2c73d7d511de1bb t/Map-Tube-Malaga/04-get_node_by_id.t
+SHA1 3da1aecaa789aca4a8ad8eceac8e49bb2ca52cc5 t/Map-Tube-Malaga/05-get_node_by_name.t
+SHA1 a127ccde730798e11c34e966169b4a8557960c87 t/Map-Tube-Malaga/06-get_shortest_route.t
+SHA1 59adb3d3416e02f08273c15494c76122d3372e6e t/Map-Tube-Malaga/07-name.t
+SHA1 b23b73125fea7739220b77f8d46708baca24b177 t/Map-Tube-Malaga/08-xml.t
 SHA1 23f2d6a16d9acccb7f1bca098e4830a62e25ef25 xt/Map-Tube-Malaga/01-pod_coverage.t
 SHA1 07faf267ad193748e860b9270dddacd5b3d369c9 xt/Map-Tube-Malaga/02-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJWAbfjAAoJEJe+XXKaIuTlxjAH/10nSOi1+XPa8H4EmjsrwRfh
-iAFWDnre1MJPQHoz53eXMdXryrSZc0YVcLj2zaprMRo759Sw8/zrfSq97OajccNP
-eXp1fevXH4SuHMQupSanLBKAFNpCT/aSlBC2PJjHUX2stQfF7SgUm1Jv/nD8eTJp
-zz/oWeSJyEtgnrGRL3MDv4+0NHt3qLTRl7g40wzwscT1ioyLTWpfRQFL5oJf2RKO
-3TEPLxjwVFjXRqBnGdx3URuM64cgXvTY/Rh4n7UsPBzEsgZJjhHec6I7CoZ5DSu6
-D/mfyIO8aN2U6xKypeDNnb0Rb7CA4ZUW8wfkuC2p36DCp/TG/ID0S8uwoldH5CU=
-=71bi
+iQEcBAEBAgAGBQJWIMwIAAoJEJe+XXKaIuTlLCkH/R+0p0VigF0+7i2EOSaW8EY6
+oede5PgUUI9btxfi9T8We9Bcy411lvG5X7iuprpQffG8/voKUcRY/lSUhs4iSRHX
+SCCqMf6gNCvt2ccSgCIHKnp3LKGrTHTmwbd7j+ADCtWKf0Ty4/SLhk7snU4eRm2P
+9uEpRgP7WVv/fSSFmtuD2F8ZrudvLRZj92ZaWCQnjjFPEsyPk0H9cEL/16XyyL94
+UGwwqRb2rgC8x5fbSwmhREyILRgd7OGyHqSDhqM81XUDQOEQPt6hp/8T44NsCL3A
+WHtitbaFlEEDjExgBipIOv/RfaHRNN/ZcPsZirnKPStUrNoYkCiKAaTfx2sgDmk=
+=DUaI
 -----END PGP SIGNATURE-----
