@@ -11,7 +11,7 @@ use Moo;
 use namespace::clean;
 
 # Version.
-our $VERSION = 0.15;
+our $VERSION = 0.16;
 
 # Get XML.
 has xml => (
@@ -265,6 +265,6 @@ I dedicate this module to my visit in Málaga.
 
 =head1 VERSION
 
-0.15
+0.16
 
 =cut
