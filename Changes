@@ -1,4 +1,5 @@
 0.16
+ - Add EXAMPLE5 section to doc.
  - Add link to Wikipedia page to XML file.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
