@@ -3,6 +3,7 @@
  - Add link to Wikipedia page to XML file.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
+ - Update Module::Install to 1.18 version.
 
 0.15 2015-10-16T12:05:58+02:00
  - Add EXAMPLE4 to doc.
