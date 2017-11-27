@@ -294,7 +294,7 @@ L<https://github.com/tupinek/Map-Tube-Malaga>
 
 =head1 AUTHOR
 
-Michal Špaček L<mailto:skim@cpan.org>
+Michal Josef Špaček L<mailto:skim@cpan.org>
 
 L<http://skim.cz>
 
@@ -304,7 +304,7 @@ I dedicate this module to my visit in Málaga.
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2015 Michal Špaček
+ © 2015 Michal Josef Špaček
  Artistic License
  BSD 2-Clause License
 
