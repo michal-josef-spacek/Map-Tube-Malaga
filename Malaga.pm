@@ -304,7 +304,7 @@ I dedicate this module to my visit in Málaga.
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2015 Michal Josef Špaček
+ © 2015-2017 Michal Josef Špaček
  Artistic License
  BSD 2-Clause License
 
