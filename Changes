@@ -6,6 +6,7 @@
  - Implement station order.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section.
+ - Move bugtracker to github.
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.21 version.
  - Update author github username.
