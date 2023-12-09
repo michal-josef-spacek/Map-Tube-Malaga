@@ -67,11 +67,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Malaga;
 
@@ -88,11 +86,9 @@ EXAMPLE1
      # Route: Princesa-Huelin (Línea 2), La Isla (Línea 2), El Perchel (Línea 2), El Perchel (Línea 1), La Unión (Línea 1), Barbarela (Línea 1)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::Malaga;
 
      # Object.
@@ -108,11 +104,9 @@ EXAMPLE2
      # XML file: .*/malaga-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::Malaga;
@@ -136,11 +130,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 51733 Sep  1 14:00 Malaga.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Malaga;
 
@@ -158,11 +150,9 @@ EXAMPLE4
      # Línea 2
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Malaga;
 
