@@ -189,8 +189,8 @@ For more information about Málaga Map, click L<here|https://es.wikipedia.org/wi
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Malaga/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Malaga/master/images/ex3.png" alt="Metro de Málaga" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Malaga/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Malaga/master/images/ex3.png" alt="Metro de Málaga" width="300px" height="300px" />
 </a>
 
 =end html
@@ -290,7 +290,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Malaga>
+L<https://github.com/michal-josef-spacek/Map-Tube-Malaga>
 
 =head1 AUTHOR
 
