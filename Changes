@@ -7,7 +7,7 @@
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.21 version.
  - Update author name.
- - Update copyright years to 2017.
+ - Update copyright years.
 
 0.15 2015-10-16T12:05:58+02:00
  - Add EXAMPLE4 to doc.
