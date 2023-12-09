@@ -217,8 +217,8 @@ Returns string with XML.
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Malaga/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Malaga/master/images/ex3.png" alt="Metro de Málaga" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Malaga/master/images/Malaga.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Malaga/master/images/Malaga.png" alt="Metro de Málaga" width="300px" height="300px" />
 </a>
 
 =end html

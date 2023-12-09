@@ -3,6 +3,7 @@
  - Add link to Wikipedia page to XML file.
  - Add test for ok_map_functions().
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
+ - Fix image name in doc.
  - Implement station order.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section.
