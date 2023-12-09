@@ -1,4 +1,4 @@
-0.16
+0.16 2023-12-09T10:57:12+01:00
  - Add EXAMPLE5 section to doc.
  - Add link to Wikipedia page to XML file.
  - Add test for ok_map_functions().
