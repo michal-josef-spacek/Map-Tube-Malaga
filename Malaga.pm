@@ -33,6 +33,7 @@ Map::Tube::Malaga - Interface to the Málaga Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Malaga;
+
  my $obj = Map::Tube::Malaga->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
