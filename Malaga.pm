@@ -332,7 +332,7 @@ I dedicate this module to my visit in Málaga.
 
 =head1 LICENSE AND COPYRIGHT
 
-© 2015-2023 Michal Josef Špaček
+© 2015-2025 Michal Josef Špaček
 
 Artistic License
 
